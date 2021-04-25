@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello 👋
 
-<!--
-**ViniciusHack/ViniciusHack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vinícius Wilbert Hack, I am a ninth grade student, I am from Brazil, and I started programming one year ago.
+I do well at school, I love math and logic.
 
-Here are some ideas to get you started:
+Always give all of me, aceppting new challenges. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I’m currently learning 🌎:
+
+- NodeJS
+- JavaScript
+- TypeScript
+- SQL
+
+#### I have knowledge in 🪐:
+
+- HTML
+- CSS

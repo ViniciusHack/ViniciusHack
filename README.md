@@ -8,9 +8,8 @@ Always give all of me, aceppting new challenges.
 #### I’m currently learning 🌎:
 
 - NodeJS
-- JavaScript
 - TypeScript
-- SQL
+- ReactJS
 
 #### I have knowledge in 🪐:
 

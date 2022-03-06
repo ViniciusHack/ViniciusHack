@@ -7,8 +7,9 @@ Medalist in OBMEP (Olimpíada Brasileira de Matemática das Escolas Públicas), 
 Medalist in OBA (Olimpíada Brasileira de Astronomia e Astronáutica), 2021 (Silver)
 
 PIC (Programa de Iniciação Científica da OBMEP) Participant since 2019
+I'm studying Software Development in High School at Senai | Joinville - Norte
 
-Always give all of me, aceppting new challenges. 
+Always giving all of me, aceppting new challenges. 
 
 #### I’m currently learning 🌎:
 

@@ -6,7 +6,8 @@ I do well at school, I love math and piano.
 Medalist in OBMEP (Olimpíada Brasileira de Matemática das Escolas Públicas), 2018 (Bronze), 2019 (Silver) and 2021 (Gold);
 Medalist in OBA (Olimpíada Brasileira de Astronomia e Astronáutica), 2021 (Silver)
 
-PIC (Programa de Iniciação Científica da OBMEP) Participant since 2019
+PIC (Programa de Iniciação Científica da OBMEP)(2019 - 2021).
+
 I'm studying Software Development in High School at Senai | Joinville - Norte
 
 Always giving all of me, aceppting new challenges. 

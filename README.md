@@ -18,6 +18,7 @@ Always giving all of me, aceppting new challenges.
 - TypeScript
 - ReactJS
 - ORM
+- Next.js
 
 #### I have knowledge in 🪐:
 

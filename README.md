@@ -1,23 +1,25 @@
-## Hello 👋
+## Hi there 👋
 
-My name is Vinícius Wilbert Hack, I am a high school student, I am from Brazil, and I started programming one year ago.
-I love math and piano.
+My name is Vinícius Wilbert Hack, I am a high school student, I am from Brazil, and I started programming a year ago, now 
+I'm studying **Software Development** in High School at **Senai** | Joinville - Norte. I love **math** and **piano**.
 
-Medalist in OBMEP (Olimpíada Brasileira de Matemática das Escolas Públicas), 2018 (Bronze), 2019 (Silver) and 2021 (Gold);
-Medalist in OBA (Olimpíada Brasileira de Astronomia e Astronáutica), 2021 (Silver)
+### My main goals:
+🥉 **Bronze** medalist in OBMEP 2018 (Olimpíada Brasileira de Matemática das Escolas Públicas); <br />
+🥈 **Silver** medalist in OBMEP 2019; <br />
+🥇 **Gold** medalist in OBMEP 2021; <br />
 
-PIC (Programa de Iniciação Científica da OBMEP)(2019 - 2021).
+🥈 **Silver** Medalist in OBA 2021 (Olimpíada Brasileira de Astronomia e Astronáutica);
 
-I'm studying Software Development in High School at Senai | Joinville - Norte
+**PIC** (Programa de Iniciação Científica da OBMEP): 2019 - 2021.
 
-Always giving all of me, aceppting new challenges. 
+*Always giving all of me, aceppting new challenges.* 
 
 #### I’m currently learning 🌎:
 
 - NodeJS
-- TypeScript
-- ReactJS
+- Express
 - ORM
+- ReactJS
 - Next.js
 
 #### I have knowledge in 🪐:
@@ -25,3 +27,4 @@ Always giving all of me, aceppting new challenges.
 - HTML
 - CSS
 - JavaScript
+- Typescript

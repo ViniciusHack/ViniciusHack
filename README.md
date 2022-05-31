@@ -21,6 +21,7 @@ I'm studying **Software Development** in High School at **Senai** | Joinville - 
 - Express
 - ORM (Prisma, TypeORM)
 - Next.js
+- Testing (Jest, Testing Library)
 
 ## ✔️ I have knowledge in:
 - HTML

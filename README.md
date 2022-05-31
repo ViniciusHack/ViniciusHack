@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 My name is Vinícius Wilbert Hack, I am a high school student, I am from Brazil, and I started programming at 2019, now 
 I'm studying **Software Development** in High School at **Senai** | Joinville - Norte. I love **math**, **games** and **piano**.
@@ -30,7 +30,7 @@ I'm certified in ReactJS by Ignite - Rocketseat: [certificate here](https://gith
 - ReactJS
 - styled-components
 
-Contact: 
+### Contact: 
 E-mail: viniciuswhack@gmail.com l viniciusvwh1441@gmail.com <br>
 Instagram: @dev.vinih l @hackvinicius <br>
 Smartphone number: +55 (47) 9 9266-4694<br>

@@ -7,11 +7,8 @@ I'm studying **Software Development** in High School at **Senai** | Joinville - 
 - 🥉 **Bronze** medalist in OBMEP 2018 (Olimpíada Brasileira de Matemática das Escolas Públicas); <br />
 - 🥈 **Silver** medalist in OBMEP 2019; <br />
 - 🥇 **Gold** medalist in OBMEP 2021; <br />
-
 - 🥈 **Silver** Medalist in OBA 2021 (Olimpíada Brasileira de Astronomia e Astronáutica);
-
 - 🧮 **PIC** (Programa de Iniciação Científica da OBMEP): 2019 - 2021.
-
 - 🚀 Certifcate in ReactJS by Ignite - Rocketseat: [certificate here](https://github.com/ViniciusHack/ViniciusHack/files/8801568/ignite-react-certificado.pdf)
 
 *Always giving all of me and aceppting new challenges.* 

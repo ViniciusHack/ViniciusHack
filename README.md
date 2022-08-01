@@ -1,7 +1,6 @@
 # Hey there 👋
 
-My name is Vinícius Wilbert Hack, I am a high school student, I am from Brazil, and I started programming at 2019, now 
-I'm studying **Software Development** in High School at **Senai** | Joinville - Norte. I love **math**, **games** and **piano**.
+My name is Vinícius Wilbert Hack, I'm 16 and I'm from Brazil, I started programming at 2019. I love **math**, **games** and **piano**.
 
 ## My main achievements:
 - 🥉 **Bronze** medalist in OBMEP 2018 (Olimpíada Brasileira de Matemática das Escolas Públicas); <br />

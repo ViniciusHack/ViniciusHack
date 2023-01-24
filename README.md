@@ -1,6 +1,6 @@
 # Hey there 👋
 
-My name is Vinícius Wilbert Hack, I'm 16 and I'm from Brazil, I started programming at 2019. I love **math**, **games** and **piano**.
+My name is Vinícius Wilbert Hack, I'm 17 and I'm from Brazil, I started programming at 2019. I love **math**, **games** and **piano**.
 
 ## My main achievements:
 - 🥉 **Bronze** medalist in OBMEP 2018 (Olimpíada Brasileira de Matemática das Escolas Públicas); <br />
@@ -13,11 +13,9 @@ My name is Vinícius Wilbert Hack, I'm 16 and I'm from Brazil, I started program
 *Always giving all of me and aceppting new challenges.* 
 
 ## 📑 I’m currently learning:
-- NodeJS
-- Express
-- ORM (Prisma, TypeORM)
-- Next.js
 - Testing (Jest, Testing Library)
+- Nest.js
+- React Native
 
 ## ✔️ I have knowledge in:
 - HTML
@@ -26,6 +24,10 @@ My name is Vinícius Wilbert Hack, I'm 16 and I'm from Brazil, I started program
 - Typescript
 - ReactJS
 - styled-components
+- Next.js
+- Prisma
+- NodeJS
+- Express
 <hr />
 
 ### Contact: 

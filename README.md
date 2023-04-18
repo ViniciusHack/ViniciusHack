@@ -12,10 +12,16 @@ My name is Vinícius Wilbert Hack, I'm 17 and I'm from Brazil, I started program
 
 *Always giving all of me and aceppting new challenges.* 
 
+## Interested
+- AWS
+- Kafka
+- Kubernets
+
 ## 📑 I’m currently learning:
 - Testing (Jest, Testing Library)
 - Nest.js
 - React Native
+- Microsservices architecture
 
 ## ✔️ I have knowledge in:
 - HTML
@@ -23,11 +29,12 @@ My name is Vinícius Wilbert Hack, I'm 17 and I'm from Brazil, I started program
 - JavaScript
 - Typescript
 - ReactJS
-- styled-components
+- Styled Components
 - Next.js
 - Prisma
 - NodeJS
 - Express
+- Redis
 <hr />
 
 ### Contact: 

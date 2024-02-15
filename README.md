@@ -1,6 +1,6 @@
 # Hey there 👋
 
-My name is Vinícius Wilbert Hack, I'm 17 and I'm from Brazil, I started programming at 2019. I love **math**, **games** and **piano**.
+My name is Vinícius Wilbert Hack, I'm from Brazil, I started programming at 2019. I love **math**, **games** and **piano**.
 
 ## My main achievements:
 - 🥉 **Bronze** medalist in OBMEP 2018 (Olimpíada Brasileira de Matemática das Escolas Públicas); <br />

@@ -20,7 +20,6 @@ My name is Vinícius Wilbert Hack, I'm from Brazil, I started programming at 201
 ## 📑 I’m currently learning:
 - Testing (Jest, Testing Library)
 - Nest.js
-- React Native
 - Microsservices architecture
 
 ## ✔️ I have knowledge in:

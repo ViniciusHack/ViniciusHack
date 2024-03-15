@@ -1,43 +1,31 @@
 # Hey there 👋
-
-My name is Vinícius Wilbert Hack, I'm from Brazil, I started programming at 2019. I love **math**, **games** and **piano**.
-
-## My main achievements:
-- 🥉 **Bronze** medalist in OBMEP 2018 (Olimpíada Brasileira de Matemática das Escolas Públicas); <br />
-- 🥈 **Silver** medalist in OBMEP 2019; <br />
-- 🥇 **Gold** medalist in OBMEP 2021; <br />
-- 🥈 **Silver** Medalist in OBA 2021 (Olimpíada Brasileira de Astronomia e Astronáutica);
-- 🧮 **PIC** (Programa de Iniciação Científica da OBMEP): 2019 - 2021.
-- 🚀 Certifcate in ReactJS by Ignite - Rocketseat: [certificate here](https://github.com/ViniciusHack/ViniciusHack/files/8801568/ignite-react-certificado.pdf)
-
-*Always giving all of me and aceppting new challenges.* 
-
+I'm Vinícius Wilbert Hack, a gifted full-stack developer from Brazil who is **always learning** and getting more excited about this tech world.
+I enjoy challenges and, as hobbie, I like playing volleyball, piano, games and watch exciting series.
+*Driven by building scalable and well-engineered solutions.*
+ 
 ## Interested
 - AWS
 - Kafka
-- Kubernets
-
-## 📑 I’m currently learning:
-- Testing (Jest, Testing Library)
-- Nest.js
 - Microsservices architecture
+- Software Architechture in General
 
-## ✔️ I have knowledge in:
-- HTML
-- CSS
-- JavaScript
+## I’m currently learning:
+- DDD
+- Nest.js
+
+## Main Techs
 - Typescript
 - ReactJS
-- Styled Components
 - Next.js
 - Prisma
 - NodeJS
-- Express
-- Redis
 <hr />
 
+## Achievements:
+- 🥇 **Gold** medalist in OBMEP 2021; <br />
+- 🚀 Certifcate in ReactJS by Ignite - Rocketseat: [certificate here](https://github.com/ViniciusHack/ViniciusHack/files/8801568/ignite-react-certificado.pdf)
+
 ### Contact: 
-E-mail: viniciuswhack@gmail.com l viniciusvwh1441@gmail.com <br>
-Instagram: @dev.vinih l @hackvinicius <br>
-Smartphone number: +55 (47) 9 9266-4694<br>
+E-mail: viniciuswhack@gmail.com<br>
+Phone: +55 (47) 9 9266-4694<br>
 LinkedIn: https://www.linkedin.com/in/viniciushack/

@@ -1,5 +1,5 @@
 # Hey there 👋
-I'm Vinícius Wilbert Hack, a gifted full-stack developer from Brazil who is **always learning** and getting more excited about this tech world.
+I'm Vinícius Wilbert Hack, a gifted full-stack developer with focus on back-end, from Brazil who is **always learning** and getting more excited about this tech world.
 I enjoy challenges and, as hobbie, I like playing volleyball, piano, games and watch exciting series.
 *Driven by building scalable and well-engineered solutions.*
  

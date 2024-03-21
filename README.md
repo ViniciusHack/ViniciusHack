@@ -22,7 +22,7 @@ I enjoy challenges and, as hobbie, I like playing volleyball, piano, games and w
 - NodeJS
 <hr />
 
-## Achievements:
+## Awards:
 - 🥇 **Gold** medalist in OBMEP 2021; <br />
 - 🚀 Certifcate in ReactJS by Ignite - Rocketseat: [certificate here](https://github.com/ViniciusHack/ViniciusHack/files/8801568/ignite-react-certificado.pdf)
 

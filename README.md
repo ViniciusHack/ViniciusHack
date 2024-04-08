@@ -7,12 +7,10 @@ I enjoy challenges and, as hobbie, I like playing volleyball, piano, games and w
 - AWS
 - Kafka
 - Go
-- Microsservices architecture
-- Software Architechture in General
+- Software Architechture
 
 ## I’m currently learning:
 - DDD
-- Nest.js
 
 ## Main Techs
 - Typescript
@@ -20,6 +18,7 @@ I enjoy challenges and, as hobbie, I like playing volleyball, piano, games and w
 - Next.js
 - Prisma
 - NodeJS
+- Nest.js
 <hr />
 
 ## Awards:

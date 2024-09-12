@@ -7,10 +7,10 @@ I enjoy challenges and, as hobbie, I like playing volleyball, piano, games and w
 - AWS
 - Kafka
 - Go
-- Software Architechture
+- .NET
 
 ## I’m currently learning:
-- DDD
+- Software Design and Architechture
 
 ## Main Techs
 - Typescript
